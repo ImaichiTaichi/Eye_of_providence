@@ -1,0 +1,2 @@
+# Eye_of_providence
+自動撮影システムとGUIを専門学生時代に作成したもの
